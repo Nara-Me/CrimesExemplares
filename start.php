@@ -1,3 +1,7 @@
+<!-- type in terminal to go livephp -S 127.0.0.1:8000 -t .
+Then open http://127.0.0.1:8000/start.php
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
