@@ -1,5 +1,7 @@
 # CrimesExemplares — README
 
+<img width="1920" height="931" alt="imagem" src="https://github.com/user-attachments/assets/e1db26f0-58af-4b9e-a98b-2e304d56916d" />
+
 **Project Context**
 - **What:** This repository contains a small website for the CrimesExemplares book in the context of a university project (all in portuguese). It uses server-side PHP files (for routing/templates) and compiled front-end assets (CSS/JS).
 
